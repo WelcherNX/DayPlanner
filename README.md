@@ -1,4 +1,4 @@
-Git Deployed Link:
+Git Deployed Link: https://welchernx.github.io/DayPlanner/
 
 Created with HTML, CSS and, JavaScript
 
